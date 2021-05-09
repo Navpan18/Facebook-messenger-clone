@@ -1,0 +1,23 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Itim&display=swap');
+.message{
+    width: fit-content;
+    padding: 10px;
+    margin: 10px;
+}
+.message_user{
+    margin-left: auto;
+    color: white;
+    text-align: left !important;
+}
+.message_userCard{
+    background-color: blue !important;
+}
+.message_guestCard{
+    background-color: grey !important;
+}
+#p1{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: 'Itim', cursive;
+}
